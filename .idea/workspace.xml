@@ -7,11 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea5a9417-7e39-4150-afdb-dac37da0c542" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ParameterTest1Servlet_war_exploded/WEB-INF/classes/kz/kaznitu/servlets/ParameterTest1Servlet.class" afterPath="$PROJECT_DIR$/out/artifacts/ParameterTest1Servlet_war_exploded/WEB-INF/classes/kz/kaznitu/servlets/ParameterTest1Servlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ParameterTest1Servlet/kz/kaznitu/servlets/ParameterTest1Servlet.class" afterPath="$PROJECT_DIR$/out/production/ParameterTest1Servlet/kz/kaznitu/servlets/ParameterTest1Servlet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/kz/kaznitu/servlets/CheckboxTestServlet.java" afterPath="$PROJECT_DIR$/src/kz/kaznitu/servlets/CheckboxTestServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/checkbox.html" afterPath="$PROJECT_DIR$/web/checkbox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,21 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="checkbox.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="checkbox.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/checkbox.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="186">
+              <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckboxTestServlet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CheckboxTestServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kz/kaznitu/servlets/CheckboxTestServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            <state relative-caret-position="432">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,8 +57,8 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <state relative-caret-position="40">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -99,12 +96,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/WEB-INF/parameterTest1Servlet" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/hello.html" />
         <option value="$PROJECT_DIR$/web/hello.html" />
         <option value="$PROJECT_DIR$/src/kz/kaznitu/servlets/ParameterTest1Servlet.java" />
         <option value="$PROJECT_DIR$/web/checkbox.html" />
         <option value="$PROJECT_DIR$/src/kz/kaznitu/servlets/CheckboxTestServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -370,7 +367,7 @@
       <workItem from="1509349258000" duration="1967000" />
       <workItem from="1509351766990" duration="5657000" />
       <workItem from="1509369815700" duration="1683000" />
-      <workItem from="1509685859282" duration="4630000" />
+      <workItem from="1509685859282" duration="5601000" />
     </task>
     <task id="LOCAL-00001" summary="adda">
       <created>1509354045470</created>
@@ -400,11 +397,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509691097858</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="COMMIT4">
+      <created>1509691876612</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1509691876612</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18325000" />
+    <option name="totallyTimeSpent" value="19296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
@@ -453,7 +457,8 @@
     <MESSAGE value="123" />
     <MESSAGE value="COMMIT2" />
     <MESSAGE value="commit3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
+    <MESSAGE value="COMMIT4" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -572,14 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/kz/kaznitu/servlets/ParameterTest1Servlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
@@ -590,21 +587,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/checkbox.html">
+    <entry file="file://$PROJECT_DIR$/src/kz/kaznitu/servlets/CheckboxTestServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="432">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kz/kaznitu/servlets/CheckboxTestServlet.java">
+    <entry file="file://$PROJECT_DIR$/web/checkbox.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="186">
+          <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
